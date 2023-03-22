@@ -1,0 +1,11 @@
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\bin\Debug\Gubskiy_Ivan_4PCS18.exe.config
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\bin\Debug\Gubskiy_Ivan_4PCS18.exe
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\bin\Debug\Gubskiy_Ivan_4PCS18.pdb
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.Form1.resources
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.Properties.Resources.resources
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.exe
+C:\Users\ivang\OneDrive\Desktop\Gubskiy_Ivan_4PCS18\Gubskiy_Ivan_4PCS18\obj\Debug\Gubskiy_Ivan_4PCS18.pdb
